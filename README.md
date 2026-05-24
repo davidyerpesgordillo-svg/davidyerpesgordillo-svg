@@ -1,4 +1,4 @@
-# ¡Hola! Soy David Yerpes 👋
+# ¡Hola! Soy David Yerpes Gordillo 👋
 
 Un apasionado **Desarrollador Web Full Stack** enfocado en crear aplicaciones robustas, eficientes y escalables. Me encanta resolver problemas complejos y transformar ideas en código limpio.
 
