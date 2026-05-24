@@ -48,4 +48,4 @@ Un apasionado **Desarrollador Web Full Stack** enfocado en crear aplicaciones ro
 
 Si quieres hablar sobre desarrollo de software, colaborar en algún proyecto o simplemente saludar, ¡no dudes en contactarme!
 
-[![LinkedIn](https://img.shields.shields.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/david-yerpes-gordillo-03a733346)
+[![LinkedIn](www.linkedin.com/in/david-yerpes-gordillo-03a733346)]
