@@ -30,7 +30,6 @@ Un apasionado **Desarrollador Web Full Stack** enfocado en crear aplicaciones ro
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 #### **Ecosistema, Servidores & Despliegue**
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
